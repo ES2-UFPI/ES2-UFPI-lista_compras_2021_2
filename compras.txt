@@ -1,3 +1,7 @@
 arroz
 feijão
 requeijão
+banana
+carne
+ovos
+bacon
