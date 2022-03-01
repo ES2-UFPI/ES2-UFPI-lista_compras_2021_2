@@ -1,3 +1,7 @@
 arroz
 feijão
 requeijão
+frango
+refrigerante
+biscoitos
+salgados
