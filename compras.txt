@@ -1,3 +1,5 @@
 arroz
 feijão
 requeijão
+pipoca
+farinha
