@@ -1,5 +1,14 @@
 arroz
 feijão
+requeijão
+frango
+refrigerante
+biscoitos
+salgados
+carne 
+batata
+peixe
+chiclete
 macarrão
 creme de leite
 ervilhas
