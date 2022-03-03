@@ -5,3 +5,7 @@ frango
 refrigerante
 biscoitos
 salgados
+carne 
+batata
+peixe
+chiclete
