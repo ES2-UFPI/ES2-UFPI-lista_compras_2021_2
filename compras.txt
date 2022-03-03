@@ -21,3 +21,6 @@ carne
 iogurte
 pão
 cerveja
+fava
+camarão
+manga
