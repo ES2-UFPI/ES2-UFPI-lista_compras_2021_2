@@ -5,3 +5,4 @@ frango
 refrigerante
 biscoitos
 salgados
+batata frita
