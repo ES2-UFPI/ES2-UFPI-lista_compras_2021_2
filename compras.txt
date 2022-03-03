@@ -24,3 +24,5 @@ cerveja
 fava
 camarão
 manga
+pasta de amendoim
+frutas vermelhas
