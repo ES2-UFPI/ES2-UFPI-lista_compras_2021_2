@@ -1,6 +1,35 @@
 arroz
 feijão
 requeijão
+pipoca
+farinha
+frango
+refrigerante
+Item 1
+Item 2
+Item 3
+Item 4
+macarrão
+creme de leite
+ervilhas
+milho verde
+extrato de tomate
+queijo ralado
+massa de bolo
+bolo de goma
+carne
+iogurte
+pão
+cerveja
+fava
+camarão
+manga
+pasta de amendoim
+frutas vermelhas
+suco
+sorvete
+carne
+beterraba
 banana
 carne
 ovos
