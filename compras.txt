@@ -28,3 +28,5 @@ pasta de amendoim
 frutas vermelhas
 suco
 sorvete
+carne
+beterraba
