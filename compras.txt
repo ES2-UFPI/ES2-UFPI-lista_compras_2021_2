@@ -26,3 +26,5 @@ camarão
 manga
 pasta de amendoim
 frutas vermelhas
+suco
+sorvete
